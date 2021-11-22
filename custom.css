@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,p,body,a,span,strong,li{font-family:Ro
 p,body,a,span,strong,li{font-size:16px}
 p,ul,ol,pre,table{margin-bottom:10px;text-align:  justify;}
 img{max-width:100%}
-.section1{background:url(upload/bg.jpg);background-size:cover;background-position:center;height:-moz-calc(100% - (1px));height:-webkit-calc(100% - (1px));height:calc(100% - (1px))}
+.section1{background:url(https://blogger.googleusercontent.com/img/a/AVvXsEgZjxFDtDb6G_DMMYFIurCUZ04QOSjfQ021T1veor709-JVIC8K3kVD_l8EAZDC68_o7RHb_HtM6Bqhc_XkqfG5X9yJzrlgrkEL5KGkzM4cda7ZAnbfqP3yiccPmFywEDY0axgrzUoDpxn7adQtH2WbPrBk8jgY3J5BkDFZVz28bqc9CTl_d2mTCmjm);background-size:cover;background-position:center;height:-moz-calc(100% - (1px));height:-webkit-calc(100% - (1px));height:calc(100% - (1px))}
 .section3{background:url(upload/bg1.jpg);background-size:cover;background-position:top;padding:100px 0 60px}
 .section4{background:url(upload/bg2.gif);background-size:cover;background-position:top;padding:120px 0}
 #header #header-wrap,#header.header-sticky #header-wrap{background-color:rgba(172,148,85,0.5)!important;border-bottom:none}
